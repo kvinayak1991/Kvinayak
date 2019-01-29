@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_171">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/SONALI/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.0.0.RELEASE/eb24d1d77df8a5e4429f473c17af3afb4d1d8346/spring-security-oauth2-client-5.0.0.RELEASE.jar" sourcepath="C:/Users/SONALI/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/5.0.0.RELEASE/5e17a63a1a2cb2dd8038cdb8e98e78aa7c330353/spring-security-oauth2-client-5.0.0.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/SONALI/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.0.0.RELEASE/64e01e68d9755d5d68076a1e7f6e79b2940a5e26/spring-security-config-5.0.0.RELEASE.jar" sourcepath="C:/Users/SONALI/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.0.0.RELEASE/13807e10284cd40192124a95b11ec2ebc6953d9c/spring-security-config-5.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
